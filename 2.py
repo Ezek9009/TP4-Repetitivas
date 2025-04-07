@@ -20,3 +20,4 @@ while numero > 0:
 #mostramos por pantalla cuantos digitos tiene el numero
 #ingresado por el usuario
 print(digito)
+
