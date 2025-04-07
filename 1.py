@@ -6,3 +6,4 @@ en orden creciente, mostrando un número por línea.
 
 for i in range(1,101):
     print(i)
+    
